@@ -1,5 +1,6 @@
 # immo-eliza-scraping
-            [(https://assets.immoweb.be/221/images/logos/brand-logo.svg)](https://github.com/basma-salem/immo-eliza-scraping/issues/1#issue-2580939164)
+            ![brand-logo](https://github.com/user-attachments/assets/ed79ce86-29b6-4252-9103-7849d1edc05d)
+
 ## 🏢 Description
 
 This project is an asynchronous web scraper designed to extract property data from the **Immo Liza** real estate website (`immo-liza.be`). The goal is to scrape property listings and details like titles, prices, descriptions, and other relevant information, then store the data in a CSV file for further analysis or processing.
